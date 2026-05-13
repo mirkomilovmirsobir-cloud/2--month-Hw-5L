@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #FAFAFA;
+    color: white;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.menu {
+    display: inline-block;
+    list-style: none;
+    margin-left: 527px;
+}
+
+.menu li {
+    display: inline-block;
+    margin-left: 21px;
+}
+
+
+a {
+    text-decoration: none;
+    color: #737373;
+    display: inline-block;
+}
+
+.title {
+    color: #252B42;
+    display: inline-block;
+}
+
+.m {
+    color: #000000;
+    display: inline-block;
+}
